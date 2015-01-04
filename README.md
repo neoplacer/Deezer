@@ -5,7 +5,7 @@ Deezer
 
 # Links
 * Deezer Website: http://www.deezer.com
-* Deezer Live: live.deezer.com
+* Deezer Live: http://live.deezer.com
 * Deezer Upload: http://upload.deezer.com
 * Deezer Developer: http://developers.deezer.com
 * Deezer Payment: https://payment.deezer.com
